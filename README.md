@@ -1,5 +1,5 @@
-The dataset encapsulates 21 information-rich columns, meticulously cleaned and primed for analysis. The possibilities for insightful analysis utilizing this dataset are extensive.
-This data set consist about 181K records.
+The dataset encapsulates 21 information-rich columns, meticulously cleaned and primed for analysis. The possibilities for insightful analysis utilizing this dataset are extensive.  
+This data set consist about 181K records.  
 Raw Data -  
 Cleaned Data -  
 
